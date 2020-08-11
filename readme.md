@@ -10,7 +10,7 @@
 ### About me
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, Go, JavaScript, PHP
+-  **Languages :** JAVA,PHP,GO
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** PHP-OpenHub
